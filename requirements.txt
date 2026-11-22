@@ -1,0 +1,8 @@
+# 运行界面只需要 PyQt6；转换本身用随包的 ffmpeg，不需要额外的 Python 音频库。
+PySide6==6.12.0
+
+# 仅重新生成图标时用：python tools/make_icon.py
+Pillow==12.3.0
+
+# 打包用（有 build.spec 且 venv 已装）：python -m PyInstaller build.spec
+pyinstaller==6.22.3
