@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 APP_NAME = "音频格式转换工具"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 APP_BUILD = "2026-11-12"
 COMPANY = "深圳市创炫互动网络科技有限公司"
 
