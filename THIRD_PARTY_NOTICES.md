@@ -14,6 +14,12 @@
 
 
 
+## 其他随包组件
+
+| 组件 | 许可 | 来源 / 源码 |
+|---|---|---|
+| Pillow 12.3.0 | HPND | https://python-pillow.org/ |
+
 ## 许可全文位置
 
 安装目录下的 `LICENSES/` 存放 LGPL-3.0、GPL-3.0、AGPL-3.0 全文及 Qt 声明，
