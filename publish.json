@@ -1,11 +1,14 @@
 {
   "app": {
-    "slug": "audio-format-converter"
+    "slug": "audio-format-converter",
+    "description": "本应用已开源：https://gitee.com/FC1976/audio-format-converter（GPL-3.0）。",
+    "source_url": "https://gitee.com/FC1976/audio-format-converter",
+    "license": "GPL-3.0"
   },
   "version": {
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "min_os_version": "Windows 10",
-    "installer": "installer_output/音频格式转换工具-1.0.1-安装包.exe",
-    "release_notes": "1.0.0 → 1.0.1：界面框架升级为 Qt 6 / PySide6，提升启动与渲染稳定性；安装目录补充许可与第三方组件声明；修复若干已知问题。"
+    "installer": "installer_output/音频格式转换工具-1.0.2-安装包.exe",
+    "release_notes": "1.0.1 → 1.0.2：更新第三方组件许可声明与开源地址；修复若干已知问题。"
   }
 }

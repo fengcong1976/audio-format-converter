@@ -1,4 +1,4 @@
-# 运行界面只需要 PyQt6；转换本身用随包的 ffmpeg，不需要额外的 Python 音频库。
+# 运行界面只需要 PySide6；转换本身用随包的 ffmpeg，不需要额外的 Python 音频库。
 PySide6==6.12.0
 
 # 仅重新生成图标时用：python tools/make_icon.py

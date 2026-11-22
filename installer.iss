@@ -12,7 +12,7 @@
 ; 用户机器上不需要预装 ffmpeg，也不会去调 PATH 里的其它版本。
 
 #define MyAppName "音频格式转换工具"
-#define MyAppVersion "1.0.1"
+#define MyAppVersion "1.0.2"
 #define MyAppPublisher "深圳市创炫互动网络科技有限公司"
 #define MyAppURL "https://www.mrheedu.com"
 #define MyAppExeName "音频格式转换工具.exe"

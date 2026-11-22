@@ -26,9 +26,9 @@ python -m pip install -r requirements.txt
 python -B main.py
 ```
 
-或者双击 `run.bat`（依次找 `venv`、`py` 启动器、PATH 上的 `python`，都会先试 `import PyQt6`）。
+或者双击 `run.bat`（依次找 `venv`、`py` 启动器、PATH 上的 `python`，都会先试 `import PySide6`）。
 
-> 需要 Python 3.10+ 与 PyQt6。ffmpeg 已随仓库放在 `ffmpeg\bin`，不需要另外安装。
+> 需要 Python 3.10+ 与 PySide6。ffmpeg 已随仓库放在 `ffmpeg\bin`，不需要另外安装。
 
 如果 Python 装在非常规位置（`python` 命令不可用），先指定解释器再运行：
 
@@ -100,7 +100,7 @@ dist\音频格式转换工具\音频格式转换工具.exe --selftest
 
 ```
 音频格式转换工具\
-├── main.py          界面（PyQt6）+ Worker 线程
+├── main.py          界面（PySide6）+ Worker 线程
 ├── cli.py           命令行
 ├── verify.py        引擎验收（33 项）
 ├── core\
