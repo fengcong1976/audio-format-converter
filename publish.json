@@ -1,7 +1,7 @@
 {
   "app": {
     "slug": "audio-format-converter",
-    "description": "本应用已开源：https://gitee.com/FC1976/audio-format-converter（GPL-3.0）。",
+    "description": "面向 Windows 10 / 11 的本地音频转换工具：mp3、wav、flac、m4a、ogg 等格式互转，能剪时间段、调音量、加淡入淡出，还能直接把视频里的音轨抽出来。全程调用随包的 ffmpeg，不联网、不上传、不覆盖原文件。 本应用已开源：https://gitee.com/FC1976/audio-format-converter（GPL-3.0）。",
     "source_url": "https://gitee.com/FC1976/audio-format-converter",
     "license": "GPL-3.0"
   },
