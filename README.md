@@ -1,5 +1,6 @@
 # 音频格式转换工具
 
+> 免费下载与图文教程：<https://www.mrheedu.com/apps/audio-format-converter>　·　更多免费软件：[www.mrheedu.com](https://www.mrheedu.com)
 拖进来选个格式，转完就在原文件旁边。
 
 面向 Windows 10 / 11 的本地音频转换工具：mp3、wav、flac、m4a、ogg 互转，能剪时间段、调音量、加淡入淡出，还能直接把视频里的音轨抽出来。全程调用随包的 ffmpeg，**不联网、不上传、不覆盖原文件**。
